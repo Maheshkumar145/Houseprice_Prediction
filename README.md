@@ -7,6 +7,7 @@
 3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 4. [AWSAccount](https://aws.amazon.com/console/)
 
+![wooden-houses-red-arrow-up-concept-high-demand-real-estate-increase-energy-efficiency-housing-rise-house-prices-131757348](https://user-images.githubusercontent.com/120241214/230145713-9793d40c-8d6b-443f-aa29-66701fd85788.jpg)
 
 Create a new environment
 
